@@ -20,4 +20,4 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Repository
 - [Heroku App]  https://notetak.herokuapp.com/notes
-- [GitHub]
+- [GitHub] https://github.com/kpac567/NoteTaker
